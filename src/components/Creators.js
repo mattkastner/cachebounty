@@ -1,15 +1,13 @@
-
 import Image from 'next/future/image'
 
 import { Container } from '@/components/Container'
 import matt from '@/images/avatars/matt.jpeg'
 import mark from '@/images/avatars/mark.jpeg'
 import nader from '@/images/avatars/nader.jpeg'
-// import justin from '@/images/avatars/justin.jpeg'
+import justin from '@/images/avatars/justin.png'
 import jake from '@/images/avatars/jake.jpeg'
 import boofy from '@/images/avatars/boofy.jpeg'
 import theme from 'tailwindcss/defaultTheme'
-
 
 const creators = [
   [
@@ -35,7 +33,7 @@ const creators = [
       content:
         "The best part about CacheBounty is every time I pay my employees, I realize these people are all my slaves and I don't pay them.",
       author: {
-        name: 'Nader',
+        name: 'Nader (Last name unknown)',
         role: 'Makes these projects happen',
         image: nader,
       },
@@ -64,7 +62,7 @@ const creators = [
       author: {
         name: 'Justin',
         role: 'Director of keeping us running',
-        image: boofy,
+        image: justin,
       },
     },
   ],
