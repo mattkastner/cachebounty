@@ -108,7 +108,7 @@ export function Header() {
             </div>
             <Button href="/" color="blue">
               <span>
-                Get started <span className="hidden lg:inline">today</span>
+              Show all <span className="hidden lg:inline">jobs</span>
               </span>
             </Button>
             <div className="-mr-1 md:hidden">
