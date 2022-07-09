@@ -48,7 +48,7 @@ export function Hero() {
       </div>
       <div className="mt-36 lg:mt-44">
         <p className="font-display text-base text-slate-900">
-          Trusted by these six companies so far
+          You can make software with this products... but you&apos;ll want to hire someone else...
         </p>
         <ul
           role="list"
