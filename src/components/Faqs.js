@@ -31,8 +31,8 @@ const faqs = [
         'This is the power of excellent visual design. You just can’t resist it, no matter how poorly it actually functions.',
     },
     {
-      question: "Mark thinks he's gay. This isn't a question",
-      answer: 'I was his roommate once, I can confirm.',
+      question: "Lily, Mark still wants you. This isn't a question",
+      answer: 'I was his roommate once, I can confirm he is maddly in love.',
     },
   ],
   [
@@ -45,8 +45,9 @@ const faqs = [
       answer: 'What kinda dumb-butt question is that?',
     },
     {
-      question: "Mark now thinks he's a woman.",
-      answer: 'Honestly not sure at all.',
+      question: 'Mark go back to playing league of legends.',
+      answer:
+        "Very true they Rusty Speed car game you play now kinda sucks. Mostly because I'm bad at it",
     },
   ],
 ]
