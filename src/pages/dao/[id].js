@@ -6,7 +6,7 @@ import { Header } from '@/layouts/Header'
 const Dao = () => {
   const { query } = useRouter()
   return (
-    <div className="flex justify-center">
+    <div className="flex flex-col items-center">
       <section
         id="dao"
         aria-label="Individual doa"
@@ -21,9 +21,9 @@ const Dao = () => {
           unoptimized
         />
       </section>
-      <div>
-        title here
-        <div className="z-1 relative mx-2 mt-[-60px] h-20 w-[900px] max-w-5xl rounded-3xl bg-white shadow-md">
+      <div className="z-1 relative mx-2 mt-[-60px]">
+        <div>title here</div>
+        <div className="h-20 w-[900px] max-w-5xl rounded-3xl bg-white shadow-md">
           bounty boxes here
         </div>
       </div>
