@@ -32,7 +32,7 @@ export function Hero() {
         is hard. We make it easy for good devs to find cool projects.
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
-        <Button href="/">View bounties</Button>
+        <Button href="/dao/1">View bounties</Button>
         <Button
           href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           variant="outline"
@@ -48,7 +48,8 @@ export function Hero() {
       </div>
       <div className="mt-36 lg:mt-44">
         <p className="font-display text-base text-slate-900">
-          You can make software with this products... but you&apos;ll want to hire someone else...
+          You can make software with this products... but you&apos;ll want to
+          hire someone else...
         </p>
         <ul
           role="list"
