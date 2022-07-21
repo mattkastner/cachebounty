@@ -7,6 +7,12 @@ const nextConfig = {
       allowFutureImage: true,
     },
   },
+  images: {
+    domains: ['images.unsplash.com'],
+  },
+  plugins: [
+    require('@tailwindcss/line-clamp'),
+  ],
 }
 
 module.exports = nextConfig
